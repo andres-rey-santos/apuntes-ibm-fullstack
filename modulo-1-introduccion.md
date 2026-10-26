@@ -1,5 +1,23 @@
 # Apuntes del Módulo 1: Introducción a la Ingeniería de Software
 
+## ¿Qué es la Ingeniería de Software?
+
+- Es el proceso de diseñar, desarrollar y mantener software. Es la disciplina que se encarga de construir programas y aplicaciones de manera organizada y eficiente, asegurando que funcionen bien y satisfagan las necesidades de los usuarios.
+
+## Desafíos de un Ingeniero de Software
+
+1. Comprender las necesidades del usuario.
+2. Elegir las herramientas y tecnologías adecuadas.
+3. Diseñar una arquitectura robusta y durable.
+4. Asegurar la calidad y el mantenimiento.
+
+## Elección de Herramientas y Escalabilidad
+
+1. **Rendimiento y eficiencia:** Aquí es donde se elige el futuro de la aplicación. Las opciones son una base de datos grande o pequeña; sobre esto dependerá el correcto funcionamiento de la misma app.
+2. **Facilidad de expansión:** Es crucial saber elegir las herramientas que a futuro le den flexibilidad a la app para que esta escale o mejore sus características.
+3. **Soporte para arquitecturas distribuidas:** Crucial para escalar la app.
+4. **Comunidad y recursos:** Indispensable para encontrar rápida y fácilmente anomalías.
+
 ## SDLC (Ciclo de Vida del Desarrollo de Software)
 
 - **Definición:** Es un proceso sistemático para crear software de alta calidad dentro de un tiempo y presupuesto predecibles.
