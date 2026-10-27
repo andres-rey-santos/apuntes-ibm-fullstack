@@ -16,5 +16,5 @@ Documentar todo lo que aprendo sobre desarrollo web (HTML, CSS, JavaScript), con
 - SQL (próximamente)
 
 ## 🔗 Enlaces
-- Mi perfil de GitHub: [@azzante](https://github.com/azzante)
-- Mi perfil de LinkedIn: [Andrés Rey Santos](https://www.linkedin.com/in/andres-rey-santos-dev/)
+- Mi perfil de GitHub: [@andres-rey-santos](https://github.com/andres-rey-santos)
+- Mi perfil de LinkedIn: [Andrés Rey Santos](https://www.linkedin.com/in/andres-rey-santos-dev)
